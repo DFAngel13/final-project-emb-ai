@@ -1,1 +1,2 @@
-# Repository for final project
+# Repositorio de proyecto final de IA de IBM-Coursera
+Aquí va el texto que especifica el proyecto...
