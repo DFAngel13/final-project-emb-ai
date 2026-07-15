@@ -1,0 +1,7 @@
+theia@theiadocker-u13dfangel:/home/project$ cd final-project-emb-ai
+theia@theiadocker-u13dfangel:/home/project/final-project-emb-ai$ python3 test_emotion_detection.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.657s
+
+OK
