@@ -1,0 +1,6 @@
+theia@theiadocker-u13dfangel:/home/project/final-project-emb-ai$ python3
+Python 3.10.12 (main, Aug 15 2025, 14:32:43) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from emotion_detection import emotion_detector
+>>> emotion_detector("Me encanta esta nueva tecnología.")
+'{"emotionPredictions":[{"emotion":{"anger":0.02206851, "disgust":0.012120659, "fear":0.050403543, "joy":0.832823, "sadness":0.13082954}, "target":"", "emotionMentions":[{"span":{"begin":0, "end":33, "text":"Me encanta esta nueva tecnología."}, "emotion":{"anger":0.02206851, "disgust":0.012120659, "fear":0.050403543, "joy":0.832823, "sadness":0.13082954}}]}], "producerId":{"name":"Ensemble Aggregated Emotion Workflow", "version":"0.0.1"}}'
